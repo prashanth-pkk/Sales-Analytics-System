@@ -15,3 +15,15 @@ The Sales Analytics System is a Java 8-based project designed to simulate a sale
 **7. List all products sold:** Combine all product names into a single list of distinct products sold.  
 **8. Count occurrences of product categories:** Count how many times each product category appears across all transactions.  
 **9. Find specific transactions:** Retrieve a transaction for a specific product by its name.
+
+**Steps to Run the Program**
+**Clone the Repository:**
+Download the project or clone it using the following command:
+**git clone https://github.com/your-username/sales-analytics-system.git**
+**Navigate to the Project Folder:**
+Open a terminal and navigate to the folder where the project is located:
+cd sales-analytics-system
+**Compile the Program:**
+javac -d bin src/**/*.java
+**Run the Program:**
+java -cp bin SalesAnalyticsApp
