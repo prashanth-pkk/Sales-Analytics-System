@@ -1,4 +1,4 @@
-#Sales analytics system
+**#Sales analytics system**
 
 Overview
 
