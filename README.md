@@ -7,7 +7,6 @@ The Sales Analytics System is a Java 8-based project designed to simulate a sale
 **Features**
 
 **Group transactions by product category:** Group sales transactions by product categories such as "Electronics" and "Clothing".
-
 **Calculate total revenue by product:** Compute the total revenue generated from each product.
 
 **Calculate overall sales revenue:** Sum up all the sales revenue across transactions.
